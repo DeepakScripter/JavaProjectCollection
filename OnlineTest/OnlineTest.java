@@ -1,5 +1,3 @@
-
-// OnlineTest class extends JFrame and implements ActionListener
 // Importing necessary packages and classes
 import java.awt.LayoutManager; // For managing the layout of components in GUI
 import java.awt.event.ActionEvent; // For handling action events
